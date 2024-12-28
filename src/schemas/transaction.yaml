@@ -341,7 +341,6 @@ TransactionInfo:
         - from
         - hash
         - transactionIndex
-      unevaluatedProperties: false
       properties:
         blockHash:
           title: block hash
